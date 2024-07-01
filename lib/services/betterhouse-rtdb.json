@@ -1,0 +1,1852 @@
+{
+  "CONTINENTS":[
+    {
+      "id":0,
+      "name": "AFRICA"
+    },
+    {
+      "id":1,
+      "name": "EUROPE"
+    },
+    {
+      "id":2,
+      "name": "ASIA"
+    },
+    {
+      "id":3,
+      "name": "NORTH AMERICA"
+    },
+    {
+      "id":4,
+      "name": "SOUTH AMERICA"
+    },
+    {
+      "id":5,
+      "name": "AUSTRALIA"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "totalUsers":0,
+      "hR": 0,
+      "hS": 0,
+      "pR":0,
+      "pS":0,
+      "fS":0,
+      "fR": 0,
+      "id":0,
+      "continent":0,
+      "name": "BURUNDI"
+    },
+    {
+      "totalUsers":0,
+      "hR": 0,
+      "hS": 0,
+      "pR":0,
+      "pS":0,
+      "fS":0,
+      "fR": 0,
+      "id": 1,
+      "continent":0,
+      "name": "KENYA"
+    },
+    {
+      "totalUsers":0,
+      "hR": 0,
+      "hS": 0,
+      "pR":0,
+      "pS":0,
+      "fS":0,
+      "fR": 0,
+      "continent":0,
+      "id": 2,
+      "name": "RWANDA"
+    },
+    {
+      "totalUsers":0,
+      "hR": 0,
+      "hS": 0,
+      "pR":0,
+      "pS":0,
+      "fS":0,
+      "fR": 0,
+      "id": 3,
+      "continent":0,
+      "name": "TANZANIA"
+    },
+    {
+      "totalUsers":0,
+      "hR": 0,
+      "hS": 0,
+      "pR":0,
+      "pS":0,
+      "fS":0,
+      "fR": 0,
+      "id": 4,
+      "continent":0,
+      "name": "UGANDA"
+    }
+  ],
+  "REGIONS": {
+    "3": {
+     "0":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 0,
+        "latitude": -3.3667,
+        "longitude": 36.6833,
+        "name": "ARUSHA"
+      },
+      "1": {
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 1,
+        "latitude": -6.8,
+        "longitude": 39.2833,
+        "name": "DAR ES SALAAM"
+      },
+      "2":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 2,
+        "latitude": -6.25,
+        "longitude": 35.75,
+        "name": "DODOMA"
+      },
+      "3":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 3,
+        "latitude": -2.8714,
+        "longitude": 32.2294,
+        "name": "GEITA"
+      },
+      "4":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 4,
+        "latitude": -7.77,
+        "longitude": 35.69,
+        "name": "IRINGA"
+      },
+      "5":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 5,
+        "latitude": -1.94265,
+        "longitude": 31.47555,
+        "name": "KAGERA"
+      },
+      "6":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 6,
+        "latitude": -6.78575,
+        "longitude": 39.24729,
+        "name": "KATAVI"
+      },
+      "7":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 7,
+        "latitude": -4.8833,
+        "longitude": 29.6333,
+        "name": "KIGOMA"
+      },
+      "8":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 8,
+        "latitude": -4.8833,
+        "longitude": 29.6333,
+        "name": "KILIMANJARO"
+      },
+      "9":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 9,
+        "latitude": -9.9969,
+        "longitude": 39.7144,
+        "name": "LINDI"
+      },
+      "10":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 10,
+        "latitude": -4.53231,
+        "longitude": 36.55131,
+        "name": "MANYARA"
+      },
+      "11":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 11,
+        "latitude": -1.7458,
+        "longitude": 33.94358,
+        "name": "MARA"
+      },
+      "12":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 12,
+        "latitude": -8.9,
+        "longitude": 33.45,
+        "name": "MBEYA"
+      },
+      "13":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 13,
+        "latitude": -6.8242,
+        "longitude": 37.6633,
+        "name": "MOROGORO"
+      },
+      "14":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 14,
+        "latitude": -10.2736,
+        "longitude": 40.1828,
+        "name": "MTWARA"
+      },
+      "15":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 15,
+        "latitude": -2.5167,
+        "longitude": 32.9,
+        "name": "MWANZA"
+      },
+      "16":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 16,
+        "latitude": -9.3296,
+        "longitude": 34.77,
+        "name": "NJOMBE"
+      },
+      "17":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 17,
+        "latitude": -7.2501,
+        "longitude": 38.64992,
+        "name": "PWANI"
+      },
+      "18":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 18,
+        "latitude": -7.02962,
+        "longitude": 31.34306,
+        "name": "RUKWA"
+      },
+      "19":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 19,
+        "latitude": -10.73306,
+        "longitude": 36.24522,
+        "name": "RUVUMA"
+      },
+      "20":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 20,
+        "latitude": -3.6619,
+        "longitude": 33.4231,
+        "name": "SHINYANGA"
+      },
+      "21":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 21,
+        "latitude": -6.18124,
+        "longitude": 35.74816,
+        "name": "SIMIYU"
+      },
+      "22":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 22,
+        "latitude": -4.8186,
+        "longitude": 34.7506,
+        "name": "SINGIDA"
+      },
+      "23":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 23,
+        "latitude": -10.66551,
+        "longitude": 35.64504,
+        "name": "SONGWE"
+      },
+      "24":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 24,
+        "latitude": -5.0167,
+        "longitude": 32.8,
+        "name": "TABORA"
+      },
+      "25":{
+        "hR": 0,
+        "hS": 0,
+        "pR":0,
+        "pS":0,
+        "fS":0,
+        "fR": 0,
+        "id": 25,
+        "latitude": -5.07013,
+        "longitude": 39.10493,
+        "name": "TANGA"
+      }
+    }
+  },
+  "DISTRICTS":{
+      "3":{
+        "0":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "ARUMERU"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "ARUSHA"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "KARATU"
+          },
+          "3": {
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "LONGIDO"
+          },
+          "4": {
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "MONDULI"
+          },
+          "5": {
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 5,
+            "name": "NGORONGORO"
+          }
+        },
+        "1":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "ILALA"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "KIGAMBONI"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "KINONDONI"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "TEMEKE"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "UBUNGO"
+          }
+        },
+        "2":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "BAHI"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "CHAMWINO"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "CHEMBA"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "DODOMA"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "KONDOA"
+          },
+          "5":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 5,
+            "name": "KONGWA"
+          },
+          "6":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 6,
+            "name": "MPWAPWA"
+          }
+        },
+        "3":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "BUKOMBE"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "CHATO"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "GEITA"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "MBOGWE"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "NYANG'WALE"
+          }
+        },
+        "4":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "IRINGA"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "KILOLO"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "MUFINDI"
+          }
+        },
+        "5":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "BIHARAMURO"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "BUKOBA"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "KARAGWE"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "KYERWA"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "MISSENYI"
+          },
+          "5":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 5,
+            "name": "MULEBA"
+          },
+          "6":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 6,
+            "name": "NGARA"
+          }
+        },
+        "6":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "MLELE"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "MPANDA"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "TANGANYIKA"
+          }
+        },
+        "7":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "BUHIGWE"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "KAKONKO"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "KASULU"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "KIBONDO"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "KIGOMA"
+          },
+          "5":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 5,
+            "name": "UVINZA"
+          }
+        },
+        "8":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "HAI"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "MOSHI"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "MWANGA"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "ROMBO"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "SAME"
+          },
+          "5":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 5,
+            "name": "SIHA"
+          }
+        },
+        "9":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "KILWA"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "LINDI"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "LIWALE"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "NACHINGWEA"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "RUANGWA"
+          }
+        },
+        "10":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "BABATI"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "HANANG"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "KITETO"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "MBULU"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "SIMANJIRO"
+          }
+        },
+        "11":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "BUNDA"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "BUTIAMA"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "MUSOMA"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "RORYA"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "SERENGETI"
+          },
+          "5":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 5,
+            "name": "TARIME"
+          }
+        },
+        "12":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "CHUNYA"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "KYELA"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "MBARALI"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "MBEYA"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "RUNGWE"
+          }
+        },
+        "13":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "GAIRO"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "KILOMBERO"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "KILOSA"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "MALINYI"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "MOROGORO"
+          },
+          "5":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 5,
+            "name": "MVOMERO"
+          },
+          "6":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 6,
+            "name": "ULANGA"
+          }
+        },
+        "14":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "MASASI"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "MTWARA"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "NANYUMBU"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "NEWALA"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "TANDAHIMBA"
+          }
+        },
+        "15":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "ILEMELA"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "KWIMBA"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "MAGU"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "MISUNGWI"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "NYAMAGANA"
+          },
+          "5":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 5,
+            "name": "SENGEREMA"
+          },
+          "6":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 6,
+            "name": "UKEREWE"
+          }
+        },
+        "16":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "LUDEWA"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "MAKETE"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "NJOMBE"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "WANG'ING'OMBE"
+          }
+        },
+        "17":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "BAGAMOYO"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "KIBAHA"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "KIBITI"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "KISARAWE"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "MAFIA"
+          },
+          "5":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 5,
+            "name": "MKURANGA"
+          },
+          "6":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 6,
+            "name": "RUFIJI"
+          }
+        },
+        "18":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "KALAMBO"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "NKASI"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "SUMBAWANGA"
+          }
+        },
+        "19":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "MBINGA"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "NAMTUMBO"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "NYASA"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "SONGEA"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "TUNDURU"
+          }
+        },
+        "20":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "KAHAMA"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "KISHAPU"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "SHINYANGA"
+          }
+        },
+        "21":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "BARIADI"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "BUSEGA"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "ITILIMA"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "MASWA"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "MEATU"
+          }
+        },
+        "22":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "IKUNGI"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "IRAMBA"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "MANYONI"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "MKALAMA"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "SINGIDA"
+          }
+        },
+        "23":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "ILEJE"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "MBOZI"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "MOMBA"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "SONGWE"
+          }
+        },
+        "24":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "IGUNGA"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "KALIUA"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "NZEGA"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "SIKONGE"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "TABORA"
+          },
+          "5":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 5,
+            "name": "URAMBO"
+          },
+          "6":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 6,
+            "name": "UYUI"
+          }
+        },
+        "25":{
+          "0":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 0,
+            "name": "HANDENI"
+          },
+          "1":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 1,
+            "name": "KILINDI"
+          },
+          "2":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 2,
+            "name": "KOROGWE"
+          },
+          "3":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 3,
+            "name": "LUSHOTO"
+          },
+          "4":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 4,
+            "name": "MKINGA"
+          },
+          "5":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 5,
+            "name": "MUHEZA"
+          },
+          "6":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 6,
+            "name": "PANGANI"
+          },
+          "7":{
+            "hR": 0,
+            "hS": 0,
+            "pR":0,
+            "pS":0,
+            "fS":0,
+            "fR": 0,
+            "id": 7,
+            "name": "TANGA"
+          }
+        }
+      }
+  }
+}

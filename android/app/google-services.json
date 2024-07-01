@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867618670355",
+    "project_id": "betterhouse-2d6de",
+    "storage_bucket": "betterhouse-2d6de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867618670355:android:763699af8135fd669a3ce6",
+        "android_client_info": {
+          "package_name": "com.tanzanitetz.betterhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867618670355-uk39u9jpst180n1flrb4t2g6sua3kbbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ5HIqmO3trutkVgig5pyVazOlSdvMeO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867618670355-uk39u9jpst180n1flrb4t2g6sua3kbbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
